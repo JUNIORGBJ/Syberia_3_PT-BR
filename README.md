@@ -7,7 +7,7 @@
 
 ## :small_blue_diamond:Sobre a Tradução.
 
-Tradução feita pelo Ideraldo Rolim - https://www.youtube.com/watch?v=E1-FnMJNfRU.
+Tradução feita pelo Ideraldo Rolim Cesar - ideraldo_rolim@hotmail.com -([Youtube](https://www.youtube.com/watch?v=E1-FnMJNfRU)) .
 
 _ "Portado para Nintendo Switch por Traduções GBJ" _
 
