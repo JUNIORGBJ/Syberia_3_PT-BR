@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <!--
+
+-->
+  <!--
+ OBJETS
+-->
+  <!--
+
+-->
+  <!--
+ HOPITAL 01
+-->
+  <!--
+
+-->
+  <Object id="CoeurOscar" name="Lembrança do Oscar" dscription="Lembrança do Oscar" />
+  <Object id="Couteau" name="Faca" dscription="Faca" />
+  <Object id="clefSortieHopital" name="Chave da saída" dscription="Chave da saída" />
+  <Object id="clefSortieHopitalUtilisee" name="Chave da saída" dscription="Chave da saída" />
+  <Object id="clefSortieHopitalReparee" name="Chave da saída consertada" dscription="Chave da saída consertada" />
+  <Object id="Brochure" name="Folheto" dscription="Folheto" />
+  <Object id="clefVoliere" name="Chave do Anton" dscription="Chave do Anton" />
+  <Object id="OiseauMecanique" name="Pássaro Mecânico" dscription="Pássaro Mecânico" />
+  <Object id="Jerrican" name="Galño de gasolina vazio" dscription="Galño de gasolina vazio" />
+  <Object id="JerricanUtilisee" name="Galño de gasolina cheio" dscription="Galño de gasolina cheio" />
+  <!--
+
+-->
+  <!--
+ CAMP YOUKOL 01
+-->
+  <!--
+
+-->
+  <Object id="FagotBougies" name="Velas" dscription="Velas" />
+  <Object id="tampon_passerVierge" name="Passe nño oficial" dscription="Passe nño oficial" />
+  <Object id="PieceCuir" name="Almofada da prensa" dscription="Almofada da prensa" />
+  <Object id="Eponge" name="Esponja" dscription="Esponja" />
+  <Object id="Tampon" name="Carimbo" dscription="Carimbo" />
+  <Object id="EpongeEncree" name="Esponja embebida em tinta" dscription="Esponja embebida em tinta" />
+  <Object id="tampon_passer" name="Passe oficial" dscription="Passe oficial" />
+  <!--
+
+-->
+  <!--
+ VILLE 01
+-->
+  <!--
+
+-->
+  <Object id="tasseSteinerVide" name="Caneca vazia" dscription="Caneca vazia" />
+  <Object id="tasseSteinerPleine" name="Remédio do Steiner" dscription="Remédio do Steiner" />
+  <Object id="BobineFilmSuper8" name="Rolo de filme" dscription="Rolo de filme" />
+  <Object id="clefOuvertureMaquette" name="Manivela" dscription="Manivela" />
+  <Object id="ClefMaquette" name="Miniatura da chave de igniçño da Krystal" dscription="Miniatura da chave de igniçño da Krystal" />
+  <Object id="ClefVierge" name="Matriz de chave" dscription="Matriz de chave" />
+  <Object id="clefTaillee01" name="Cópia da chave de igniçño em 250%" dscription="Cópia da chave de igniçño em 250%" />
+  <Object id="clefTaillee02" name="Cópia da chave de igniçño em 150%" dscription="Cópia da chave de igniçño em 150%" />
+  <Object id="clefTaillee03" name="Cópia da chave de igniçño em 100%" dscription="Cópia da chave de igniçño em 100%" />
+  <Object id="clefTaillee04" name="Cópia da chave de igniçño em 50%" dscription="Cópia da chave de igniçño em 50%" />
+  <Object id="clefTaillee06" name="Cópia da chave de igniçño da Krystal" dscription="Cópia da chave de igniçño da Krystal" />
+  <!--
+clefTaillee05
+-->
+  <!--
+BoutFeraille
+-->
+  <Object id="Rigole" name="Calha" dscription="Calha" />
+  <Object id="BoutonMachine" name="Botño" dscription="Botño" />
+  <!--
+BarreAMine
+-->
+  <Object id="BouteillesOxygene" name="Tanques de oxigänio vazios" dscription="Tanques de oxigänio vazios" />
+  <Object id="BouteillesOxygenePleines" name="Tanques de oxigänio cheios" dscription="Tanques de oxigänio cheios" />
+  <Object id="CombinaisonPlongee" name="Traje de mergulho" dscription="Traje de mergulho" />
+  <Object id="Scaphandre" name="Capacete de mergulho" dscription="Capacete de mergulho" />
+  <Object id="ClefCarre" name="Chave quadrada" dscription="Chave quadrada" />
+  <Object id="Rouage03" name="Engrenagem dupla" dscription="Engrenagem dupla" />
+  <Object id="Rouage01" name="Engrenagem grande" dscription="Engrenagem grande" />
+  <Object id="Rouage02" name="Engrenagem" dscription="Engrenagem" />
+  <Object id="Chaine" name="Corrente" dscription="Corrente" />
+  <!--
+VILLE 02
+-->
+  <Object id="BreuvageShamanique" name="Poçño da xamñ" dscription="Poçño da xamñ" />
+  <Object id="GrandeCale" name="Cunha" dscription="Cunha" />
+  <Object id="PetiteCale" name="Cunha pequena" dscription="Cunha pequena" />
+  <!--
+HOPITAL 02
+-->
+  <Object id="TalkieWalkie" name="Walkie-talkie" dscription="Walkie-talkie" />
+  <Object id="Trombone" name="Clipe de papel" dscription="Clipe de papel" />
+  <Object id="Statuette" name="Estatueta" dscription="Estatueta" />
+  <!--
+KRYSTAL (Traversée du lac)
+-->
+  <!--
+Compresse
+-->
+  <!--
+PaquetYoukol
+-->
+  <!--
+TalkieWalkieTrafique
+-->
+  <!--
+TamponFinal
+-->
+  <!--
+
+-->
+  <!--
+ DOCUMENTS
+-->
+  <!--
+
+-->
+  <!--
+ MONDE 01
+-->
+  <!--
+
+-->
+  <Object id="OuvrageYoukols" name="Antologia sobre o Youkols" dscription="Antologia sobre os Youkols" />
+  <Object id="DocumentMunicipal" name="Nota do Superintendente" dscription="Nota do Superintendente" />
+  <Object id="CoupuresJournaux" name="Recorte de jornal" dscription="Recorte de jornal" />
+  <Object id="CodeGriffone" name="Código do Capitño Obo" dscription="Código do Capitño Obo" />
+  <Object id="JournalObo" name="Diário do Capitño Obo" dscription="Diário do Capitño Obo" />
+  <Object id="NoteMangoling" name="Bilhete do Dr. Mangoling" dscription="Bilhete do Dr. Mangoling" />
+  <Object id="Ordonnance" name="Receita do Steiner" dscription="Receita do Steiner" />
+  <!--
+Plaque_Maquette
+-->
+  <!--
+BrochureClinique
+-->
+  <!--
+Journal
+-->
+  <!--
+
+-->
+  <!--
+ MONDE 02
+-->
+  <!--
+
+-->
+  <!--
+
+-->
+  <!--
+ KRYSTAL
+-->
+  <!--
+
+-->
+  <Object id="EcharpeKate" name="Cachecol" dscription="Cachecol" />
+  <Object id="BoiteAllumettes" name="Fósforos artesanais" dscription="Fósforos artesanais" />
+  <Object id="FeuDeDetresse" name="Sinalizador" dscription="Sinalizador" />
+  <Object id="BouteilleVodka" name="Vodka extra forte" dscription="Vodka extra forte" />
+  <!--
+
+-->
+  <!--
+ PARC D'ATTRACTIONS
+-->
+  <!--
+
+-->
+  <Object id="ClefKrystal" name="Chave da Krystal" dscription="Chave da Krystal" />
+  <Object id="LunettesGeiger" name="Óculos para radiaçño" dscription="Óculos para radiaçño" />
+  <Object id="PercheTelescopique" name="Gancho telescópico" dscription="Gancho telescópico" />
+  <Object id="PignonGrandeRoue" name="Engrenagem" dscription="Engrenagem" />
+  <Object id="ClefCaisseOutilsVoralberg" name="Chave pequena" dscription="Chave pequena" />
+  <Object id="ClefPipeVoralberg" name="Chave biela Voralberg" dscription="Chave biela Voralberg" />
+  <Object id="ClefVoralbergDe10" name="Chave Voralberg nº 10" dscription="Chave Voralberg nº 10" />
+  <Object id="TigeDeFer" name="Haste de metal" dscription="Haste de metal" />
+  <!--
+
+ une seule tige utilisée
+-->
+  <Object id="DogTagAndrei" name="Plaquetas de identificaçño" dscription="Plaquetas de identificaçño" />
+  <Object id="ClefActivationVoralberg" name="Chave Voralberg de ativaçño" dscription="Chave Voralberg de ativaçño" />
+  <Object id="ClefArmoireAndrei" name="Chave do guarda-roupa do Andreï" dscription="Chave do guarda-roupa do Andreï" />
+  <!--
+
+-->
+  <!--
+ STATION DU CENTRE HISTORIQUE
+-->
+  <!--
+
+-->
+  <Object id="Algues" name="Algas" dscription="Algas" />
+  <Object id="ChiffonYoukole" name="Pedaço de pano" dscription="Pedaço de pano" />
+  <Object id="Racine" name="Raiz" dscription="Raiz" />
+  <Object id="Briquet" name="Pederneira" dscription="Pederneira" />
+  <Object id="Flacon" name="Frasco" dscription="Frasco" />
+  <Object id="Torche" name="Tocha" dscription="Tocha" />
+  <Object id="BuretteHuile" name="Bureta de óleo" dscription="Bureta de óleo" />
+  <Object id="Cisaille" name="Alicate Corta Vergalhño" dscription="Alicate Corta Vergalhño" />
+  <Object id="CleCamion" name="Chave de igniçño" dscription="Chave de igniçño" />
+  <!--
+
+-->
+  <!--
+ OLYMPIA
+-->
+  <!--
+
+-->
+  <Object id="Lentille01" name="Lente Youkol 01" dscription="Lente Youkol 01" />
+  <Object id="Lentille02" name="Lente Youkol 02" dscription="Lente Youkol 02" />
+  <Object id="Lentille03" name="Lente Youkol 03" dscription="Lente Youkol 03" />
+  <Object id="EcharpeKatePropre" name="Cachecol da Kate Walker" dscription="Cachecol da Kate Walker" />
+  <Object id="EcharpeKateUtilisee" name="Cachecol da Kate Walker" dscription="Cachecol da Kate Walker" />
+  <Object id="Pomme" name="Maçñ" dscription="Maçñ" />
+  <Object id="ClefsCantin" name="Chaves do Nic Cantin" dscription="Chaves do Nic Cantin" />
+  <!--
+
+-->
+  <!--
+ PONT DE LA RIVIERE BALATOM
+-->
+  <!--
+
+-->
+  <!--
+
+
+-->
+  <Object id="Brique" name="Tijolo" dscription="Tijolo" />
+  <Object id="Flasque" name="Frasco do funcionário da alfândega" dscription="Frasco do funcionário da alfândega" />
+  <Object id="BatonAyawaska" name="Cetro da Ayawaska" dscription="Cetro da Ayawaska" />
+  <Object id="Buche" name="Lenha" dscription="Lenha" />
+  <Object id="Entonnoir_04" name="Funil 04" dscription="Funil 04" />
+  <Object id="Entonnoir_03" name="Funil 03" dscription="Funil 03" />
+  <Object id="Entonnoir_02" name="Funil 02" dscription="Funil 02" />
+  <Object id="Entonnoir_01" name="Funil 01" dscription="Funil 01" />
+  <Object id="CouteauPont" name="Faca" dscription="Faca" />
+  <Object id="PapierDouanier" name="Pilha de papéis" dscription="Pilha de papéis" />
+  <Object id="Resine_Bleue" name="1/4 de resina azul" dscription="1/4 de resina azul" />
+  <Object id="Resine_Jaune" name="1/4 de resina amarela" dscription="1/4 de resina amarela" />
+  <Object id="Resine_Jaune_02" name="1/4 de resina amarela 02" dscription="1/4 de resina amarela 02" />
+  <Object id="Resine_Rouge" name="1/4 de resina vermelha" dscription="1/4 de resina vermelha" />
+  <Object id="Resine_Bleue_02" name="1/4 de resina azul 02" dscription="1/4 de resina azul 02" />
+  <Object id="Camembert_Bleu" name="Resina azul inteira" dscription="Resina azul inteira" />
+  <Object id="Sac_Sciure" name="Saco de serragem" dscription="Saco de serragem" />
+  <!--
+ 
+-->
+  <!--
+ DOCUMENTS
+-->
+  <!--
+ 
+-->
+  <Object id="CarnetYoukol" name="" dscription="" />
+  <Object id="AlbumKatarina" name="Álbum de fotos" dscription="Álbum de fotos" />
+  <Object id="Papier_Chiffone" name="Papel amassado" dscription="Papel amassado" />
+  <Object id="JournalYoukolTraduit" name="Manuscrito Youkol traduzido" dscription="Manuscrito Youkol traduzido" />
+  <Object id="JournalYoukolNonTraduit" name="Manuscrito Youkol" dscription="Manuscrito Youkol" />
+</Objects>
